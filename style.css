@@ -21,6 +21,10 @@ h1{
   font-size: 50px;
 }
 
+h4{
+  font-family: "Edwardian Script ITC regular","Times New Roman", serif ;
+}
+
 .imgbk{
   width: 300px;
   height: 300px;
@@ -28,6 +32,15 @@ h1{
 
 .txtind{
   text-indent: 30px;
+}
+
+.change{
+  font-size: 35px;
+}
+
+.logo{
+  width: 35px;
+  height: 35px;
 }
 
 /* Style all font awesome icons */
