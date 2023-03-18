@@ -1,9 +1,64 @@
 
+
 .jumbotron {
-  background-image: url();
+  /*background-color: rgb(181, 235, 255); */
   background-size: cover;
 }
 
 .display-4{
   color: black;
+  text-align: left;
+}
+
+body{
+  background-image: url("./img/bg2.jpg");
+  background-size: cover;
+}
+
+h1{
+  text-align: center;
+  font-family: "Times New Roman",serif;
+  font-size: 50px;
+}
+
+.imgbk{
+  width: 300px;
+  height: 300px;
+}
+
+.txtind{
+  text-indent: 30px;
+}
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+a{
+  color: blue;
 }
